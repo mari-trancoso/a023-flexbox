@@ -8,6 +8,11 @@
   width: 100vw;
   background-color: lightgray;
   display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  gap: 80px;
+  
 }
 
 .item {
@@ -15,4 +20,9 @@
   background-color: white;
   height: 180px;
   width: 180px;
+  text-align: center;
+  display: flex;
+  align-items:center;
+  justify-content: center;
+
 }
